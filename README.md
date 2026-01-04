@@ -17,7 +17,7 @@ I'm Karan Meghwal, a passionate Data Analyst with an array of skills in SQL, MS 
 * Spreadsheet: MS Excel.<br>
 
 ## 📌 Projects
-* check out my portfolio : [My Project](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
+* Check out my portfolio : [My Project](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
 
 
 
