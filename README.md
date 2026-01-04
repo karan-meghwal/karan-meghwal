@@ -6,17 +6,25 @@
 I'm Karan Meghwal, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI.
 
 • SQL : Proficient in querying and manipulating data with SQL.
+
 • Python : Utilizes Python for data wrangling and advanced analytics.
+
 • Excel : Generates reports and performs data analysis using MS Excel.
+
 • Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
 
-## ⚙️ SKILLS
-Language: SQL
-Database: MySQL
-Visualization: Power BI
-Spreadsheet: MS Excel
+## ⚙️ Skills
+* Language: SQL
 
-## 📌 PROJECTS 
+* Database: MySQL
+
+* Visualization: Power BI
+
+* Spreadsheet: MS Excel
+
+## 📌 Projects
+
+* check out my portfolio : [My Project](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
 
 
 
