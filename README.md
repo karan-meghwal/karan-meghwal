@@ -16,6 +16,7 @@ Database: MySQL
 Visualization: Power BI
 Spreadsheet: MS Excel
 
+## 📌 PROJECTS 
 
 
 
